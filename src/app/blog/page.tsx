@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image' 
-import { getPosts } from '../../app/lib/post'  
+import { getPosts } from '../lib/post'  
 
 
 export default function Blog() {
